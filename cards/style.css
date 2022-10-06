@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.row {
+	background-color: rgba(0, 0, 0, 0.137);
+}
+
+.card {
+	border: 2px solid rgba(0, 0, 0, 0.233);
+}
+
+.btn {
+	position: absolute;
+	bottom: 10px;
+}
+
+.clear {
+	content: "";
+	height: 10px;
+	margin: 20px;
+	/* background-color: brown; */
+}
